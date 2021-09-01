@@ -1,4 +1,4 @@
-#Livro de Receitas
+# Livro de Receitas
 
-Olá! BEm-vindo ao meu livvro de receitas
+Olá! Bem-vindo ao meu livvo de receitas
  - Strogonoff de Frango (Suco de Uva)
