@@ -5,3 +5,5 @@ Olá! Bem-vindo ao meu livvo de receitas
  - Pavê
  - Mousse
  - Mais uma
+
+Projeto criado no BootCamp Capgemini Fullstack Java and Angular da Digital Innovation One
